@@ -1,0 +1,12 @@
+# Compiled binaries
+*.exe
+*.o
+*.out
+a.exe
+
+# IDE
+.vscode/
+.idea/
+
+# PDFs (large files)
+*.pdf
